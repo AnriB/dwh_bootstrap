@@ -1,0 +1,12 @@
+# --- IDE / Editor files ---
+# VSCode
+.vscode/
+# JetBrains (IntelliJ, PyCharm, etc.)
+.idea/
+# Eclipse
+.project
+.classpath
+.settings/
+# Others
+*.swp
+*.swo
